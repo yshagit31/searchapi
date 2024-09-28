@@ -1,6 +1,6 @@
 # Makersharks Search API
 
-##Overview
+## Overview
 Makersharks is building a search page where buyers can search for manufacturers based on customized requirements. This project is a proof of concept for the search API using Spring Boot. 
 The API retrieves a list of manufacturers based on location, nature of business, and manufacturing processes.
 
